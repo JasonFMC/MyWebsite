@@ -3,9 +3,8 @@ This is my personal website, you can visit it at https://jasonfmc.github.io/MyWe
 
 # Sections 
 
-Mini intro
-About me 
-Skills
-Projects
-Contact me
-
+Mini intro/
+About me /
+Skills/
+Projects/
+Contact me/
